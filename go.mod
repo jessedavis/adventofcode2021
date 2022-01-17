@@ -1,3 +1,3 @@
-module example.com/day1problem1
+module github.com/jessedavis/adventofcode2021
 
 go 1.17
